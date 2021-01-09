@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AppEnvironment": "local"
+  },
+  "AppSettings": {
+    "SqlConnectionString": "SQL-SERVER-CONNECTION-STRING",
+    "GitHubOrgName": "dotnet"
+  }
+}
